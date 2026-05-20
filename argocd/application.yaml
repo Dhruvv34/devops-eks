@@ -8,7 +8,7 @@ spec:
   
   # Source - Git repository containing manifests
   source:
-    repoURL: https://github.com/Dhruv34/devops-eks-assignment.git
+    repoURL: https://github.com/Dhruvv34/devops-eks.git
     targetRevision: HEAD
     path: manifests
   
