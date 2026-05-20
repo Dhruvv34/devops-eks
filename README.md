@@ -118,8 +118,6 @@ kubectl port-forward svc/argocd-server -n argocd 8080:443
 - **Username:** `admin`
 - **Password:** (from previous command)
 
-📸 **Screenshot Required:** ArgoCD UI dashboard after login
-
 ---
 
 ## Step 6: Deploy Application via ArgoCD (GitOps)
